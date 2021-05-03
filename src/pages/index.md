@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: ビジネスの飛躍は個客体験から生まれる
+title: ビジネスの飛躍は個客体験から創られる
 image: /img/pexels-laura-meinhardt-3678799.jpg
 heading: 顧客から個客へ～卓越した体験
 subheading: 個客起点のデジタルトランスフォーメーション
